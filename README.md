@@ -1,2 +1,2 @@
 # litephoto
-Custom WordPress theme initially built for Yanick Folly website (yanickfolly.com)
+WordPress theme for photographs websites
